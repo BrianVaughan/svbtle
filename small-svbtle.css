@@ -1,0 +1,24 @@
+#container{
+	margin:0 auto;
+	width:70%;
+}
+
+
+.left {
+	    display: block;
+        width: 400px;
+        height: 20pc;
+        border:5px solid red;
+		float:left;
+}
+.right {
+		display: block;
+        width: 300px;
+        height: 20px;
+		border:5px solid red;
+		float:right;
+}
+
+p {
+		font-size: 50px;
+}
