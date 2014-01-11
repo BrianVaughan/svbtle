@@ -24,7 +24,22 @@
 }
 
 p {
-		font-size: 20px;
+		margin-left: 25px;
+		color: #4d4d4d;
+		font-size: 18px;
+		line-height: 1.5;
+		font-family: 'Helvetica';
+		padding: 10px 10px 10px 10px;
+
+}
+
+pre {
+		margin-left: 25px;
+		color: #4d4d4d;
+		font-size: 18px;
+		line-height: 1.5;
+		font-family: 'Helvetica';
+		padding: 10px 10px 10px 10px;
 }
 
 a:hover
